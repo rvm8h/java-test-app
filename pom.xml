@@ -2,12 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.java-test-app</groupId>
-	<artifactId>java-test-app</artifactId>
+	<groupId>de.codecentric</groupId>
+	<artifactId>conference-app</artifactId>
 	<version>3.0.0</version>
 	<packaging>war</packaging>
 
-	<name>java-test-app</name>
+	<name>Conference App</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -23,9 +23,9 @@
 	</parent>
 
 	<scm>
-		<connection>scm:git:git@github.com:rvm8h/java-test-app.git</connection>
-		<url>https://github.com/rvm8h/java-test-app</url>
-		<developerConnection>scm:git:git@github.com:rvm8h/java-test-app.git</developerConnection>
+		<connection>scm:git:git@github.com:codecentric/conference-app.git</connection>
+		<url>https://github.com/codecentric/conference-app</url>
+		<developerConnection>scm:git:git@github.com:codecentric/conference-app.git</developerConnection>
 	</scm>
 
 	<dependencies>
